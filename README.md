@@ -282,6 +282,20 @@ These KPIs enable analysis of borrowing behavior and exposure across creditworth
 These measures provide trend-based insights into portfolio growth and default risk over time.
 
 ---
+---
+
+## 📸 Dashboard Snapshots
+
+### Page 1 – Financial Risk Metrics
+![Financial Risk Metrics](financial_metrics.png)
+
+### Page 2 – Applicant Demographics & Profile
+![Applicant Demographics](applicant_demographics.png)
+
+### Page 3 – Loan Default & Overview
+![Loan Default Overview](loan_default_overview.png)
+
+---
 
 ## Visuals Used
 
